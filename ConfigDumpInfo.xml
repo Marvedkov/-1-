@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.7">
+	<ConfigVersions>
+		<Metadata name="Catalog.Кабинеты" id="c2652e17-dd3b-4956-abb4-3889b8902c0b" configVersion="fbcb3243bd2dc6479bb95eff047fe5f600000000"/>
+		<Metadata name="Catalog.Предметы" id="1d5085ba-027a-4db5-9807-1fc305f80d9e" configVersion="90a79768da9e9148a14494b6df4ecaa500000000">
+			<Metadata name="Catalog.Предметы.Attribute.Учитель" id="2d4bcc44-30dc-4227-9c05-75a25f3722ea"/>
+			<Metadata name="Catalog.Предметы.Attribute.Кабинет" id="dcdc43b1-cf63-4b4e-bc17-a674cc88ef8f"/>
+		</Metadata>
+		<Metadata name="Catalog.Учитель" id="08a8e2d0-67d4-4d3d-826b-59af34e5992c" configVersion="1f45bc26b3ec2f44bd5d458621e3493800000000"/>
+		<Metadata name="Configuration.Дневник" id="879cb9c9-198f-4d95-ad57-46492413b0e1" configVersion="63e3037d09fd3c469c9eb325a0bcfc9300000000"/>
+		<Metadata name="Configuration.Дневник.ManagedApplicationModule" id="80f52b61-d9ef-4a01-b69b-a9bd24658a15.6" configVersion="4388fd597a0b0b46b342933eb0a15f3f00000000"/>
+		<Metadata name="Language.Русский" id="97fc925c-1619-4125-8ae7-f5b72588f400" configVersion="179b1b85d11ef244a54f2ad5e82200b100000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>

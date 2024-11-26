@@ -1,0 +1,10 @@
+﻿[MarMedKov]
+Connect=File="C:\Users\Marved\Documents\InfoBase";
+ID=453bace1-2164-4769-bfd5-e76f6e7f7094
+OrderInList=16384
+Folder=/
+OrderInTree=256
+External=0
+ClientConnectionSpeed=Normal
+App=Auto
+WA=1
